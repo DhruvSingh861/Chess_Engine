@@ -7,6 +7,9 @@ This is an AI bases chess engine implemented in python.
 https://user-images.githubusercontent.com/79684954/141112736-20947ac7-8fa9-4cad-9771-afc05ef1cd49.mp4
 
 
+https://user-images.githubusercontent.com/79684954/141121744-fd89f4d8-af48-4165-9eec-bec8fca37750.mp4
+
+
 
 Engine is smart enough to play with a normal chess player.
 

@@ -9,6 +9,7 @@ I chose to write this engine in python since it was more of a learning exercise 
 i would like to implement an advanced Chess Engine(2.0) using more advanced topics later.
 
 INSTRUCTIONS TO PLAY:-
+
 undo:- Ctrl+Z
 reset:- R
 
